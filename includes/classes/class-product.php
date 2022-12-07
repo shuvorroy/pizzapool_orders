@@ -84,6 +84,6 @@ class Product {
 				return false;
 			}
 		}
-		return true;
+		return false;
 	}
 }
